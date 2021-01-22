@@ -5,8 +5,8 @@ These are declared prefixes, These prefixes can not be used custom metrics unles
 ID             | Declared For                                      | Description                        | Added
 -------------- | ------------------------------------------------- | ---------------------------------- | -------
 emittesCore    | Offical Use                                       | Emittes Core                       | v0.1
-emittesServer  | Offical Use                                       | Emittes Server                     | v0.2
-emittesChild   | Offical Use                                       | Emittes Core                       | v0.0
+emittesServer  | Offical Use                                       | Emittes Server                     | v0.1
+emittesChild   | Offical Use                                       | Emittes Core                       | v0.1
 docker         | Offical Use                                       | Emittes Docker                     | v0.0
 discord        | Offical Use                                       | DiscordJS Middleware               | v0.0
 express        | Offical Use                                       | ExpressJS Middleware               | v0.0
