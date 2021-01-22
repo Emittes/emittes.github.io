@@ -16,3 +16,5 @@ These are prefixes that have a application in pending and maybe added in future.
 ID 				| Application by                                    | Reason for Application 
 ---------	| ------------------------------------------------- | --
 vjs       | [IGSteven](https://github.com/IGSteven) 		  	  | VoxtlJS  Middleware
+
+Want to apply for a prefix, add these [here](https://github.com/Emittes/emittes.github.io/issues) with the **Prefix-Request** label.
