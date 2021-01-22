@@ -1,4 +1,4 @@
-# No Key Provided Error (Error Code: EI01)
+# No Key Provided Error
 
 ## Cause
 The Key Provided error is thrown when you fail to provided a token or key provided by emittes control server.
