@@ -22,6 +22,6 @@ io.metric.update(example-metric, "15")
 ## Update metric on Interval
 Want to update a mertic automatically using a value
 ```js
-0.io.metric.intervalUpdate(examp, object, updaterate)
+io.metric.intervalUpdate(examp, object, updaterate)
 ```
 You do not need to provide the Updaterate, this will default to 5seconds
